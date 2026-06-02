@@ -44,7 +44,7 @@
 
 ## 💻 Мои pet-проекты:
 <p align="left">
-  <a href="https://github.com/Kemuni/TimeInData" target="_blank" rel="noreferrer"><img alt="TimeInData" src="TimeInDataBanner.png" width="500"></a>
-  <a href="https://github.com/Kemuni/defect_control_system" target="_blank" rel="noreferrer"><img alt="ControlSystem" src="ControlSystemBanner.png" width="500"></a>
+  <a href="https://github.com/Kemuni/TimeInData" target="_blank" rel="noreferrer"><img alt="TimeInData" src="TimeInDataBanner.png" width="400"></a>
+  <a href="https://github.com/Kemuni/defect_control_system" target="_blank" rel="noreferrer"><img alt="ControlSystem" src="ControlSystemBanner.png" width="400"></a>
 </p>
 
