@@ -1,11 +1,12 @@
 Hi! My name is Kemuni
 ===============================================================================================================================
 
-Fullstack developer
+Fullstack разработчик
 -------------------
 
-A beginner developer with practical experience in pet projects. I am constantly developing and expanding my knowledge both in the current stack and beyond, studying third-party programming languages and frameworks.
+Начинающий разработчик с практическим опытом работы в pet-проектах. Постоянно развиваюсь и расширяю свои знания как в текущем стеке, так и за его пределами, изучая сторонние языки программирования и фреймворки.
 
+### Стек:
 <p align="left">
   <img align='left' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
   <img align='left' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
@@ -29,6 +30,14 @@ A beginner developer with practical experience in pet projects. I am constantly 
 <br/>
 <br/>
 
-### Socials
+### Мои pet-проекты:
+<p align="left">
+  <a href="https://github.com/Kemuni/TimeInData" target="_blank" rel="noreferrer"><img alt="TimeInData" src="TimeInDataBanner.png" width="500"></a>
+  <a href="https://github.com/Kemuni/defect_control_system" target="_blank" rel="noreferrer"><img alt="ControlSystem" src="ControlSystemBanner.png" width="500"></a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Kemuni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+
+### Соц сети:
+<p align="left">
+  <a href="https://www.github.com/Kemuni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
+</p>
