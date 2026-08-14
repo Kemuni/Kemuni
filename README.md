@@ -43,6 +43,11 @@
 <br/>
 
 ## 💻 Мои pet-проекты:
+<ul>
+  <li><a href="https://github.com/Kemuni/TimeInData">TimeInData - Бот на Python с WebApp (React) для тайм-менеджмента</a></li>
+  <li><a href="https://github.com/Kemuni/TestTaskIndoorsNavigation">Платформа на Django+DRF для заводчиков котов</a></li>
+  <li><a href="https://github.com/Kemuni/defect_control_system">Веб-сайт для управления дефектами в организации на Next.js</a></li>
+</ul>
 <p align="left">
   <a href="https://github.com/Kemuni/TimeInData" target="_blank" rel="noreferrer"><img alt="TimeInData" src="TimeInDataBanner.png" width="400"></a>
   <a href="https://github.com/Kemuni/defect_control_system" target="_blank" rel="noreferrer"><img alt="ControlSystem" src="ControlSystemBanner.png" width="400"></a>
