@@ -46,6 +46,7 @@
 <ul>
   <li><a href="https://github.com/Kemuni/TimeInData">TimeInData - Бот на Python с WebApp (React) для тайм-менеджмента</a></li>
   <li><a href="https://github.com/Kemuni/TestTaskIndoorsNavigation">Платформа на Django+DRF для заводчиков котов</a></li>
+  <li><a href="https://github.com/Kemuni/FullTextSearchBackend">Backend на FastAPI c ElasticSearch с полнотекстовым поиском постов</a></li>
   <li><a href="https://github.com/Kemuni/defect_control_system">Веб-сайт для управления дефектами в организации на Next.js</a></li>
 </ul>
 <p align="left">
